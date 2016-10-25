@@ -1,3 +1,6 @@
 file 3 line 1
 line 2
 line 3
+adding text 
+and some more text
+and even more text
